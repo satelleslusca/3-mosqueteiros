@@ -1,10 +1,11 @@
 :root{
-    
+    --verdefundo: #F3FFEB;
+    --pretofonte: #000000;
 }
 body{
-    background-color: #F3FFEB
+    background-color: var(--verdefundo)
 ;
-    color: rgb(0, 0, 0);
+    color: var(--pretofonte)
 }
 
 img{
