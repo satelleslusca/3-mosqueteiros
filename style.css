@@ -3,9 +3,8 @@
     --pretofonte: #000000;
 }
 body{
-    background-color: var(--verdefundo)
-;
-    color: var(--pretofonte)
+    background-color: var(--verdefundo);
+    color: var(--pretofonte);
 }
 
 img{
