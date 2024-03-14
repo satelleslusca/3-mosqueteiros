@@ -19,3 +19,7 @@ header{
 .img-primeiro-topico{
     width: 5%;
 }
+
+.primeiro-topico{
+    display: flex;
+}
