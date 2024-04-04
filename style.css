@@ -33,7 +33,7 @@ header{
 
 .nome-dos-nengues {
     display: grid;
-    grid-template-columns: 33% 33% 33%
+    grid-template-columns: 33% 33% 33%;
     background-color: palegreen;
     margin: 20px;
     padding: 20px;
