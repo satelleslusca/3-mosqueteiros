@@ -31,7 +31,7 @@ header{
     border: 3px solid;
 }
 
-.nome-dos-nengues {
+#nome-dos-nengues {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     background-color: palegreen;
