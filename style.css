@@ -5,6 +5,7 @@
 body{
     background-color: var(--verdefundo);
     color: var(--pretofonte);
+    margin: 8px;
 }
 
 img{
@@ -52,6 +53,7 @@ footer{
  background-color: #cbd8c2;
 color: azure;
 display: grid;
+margin: 0px;
     
 }
 footer a{
