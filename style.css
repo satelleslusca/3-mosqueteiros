@@ -16,6 +16,7 @@ header{
     display:block ; 
     justify-content: space-around;
     align-items: center;
+    margin: 8px;
 }
 .img-primeiro-topico{
     width: 15%;
