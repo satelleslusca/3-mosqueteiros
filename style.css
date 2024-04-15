@@ -57,3 +57,7 @@ display: grid;
 footer a{
     color: azure;
 }
+
+.rodape {
+    margin: 0;
+}
