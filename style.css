@@ -51,7 +51,7 @@ header{
 footer{
  background-color: #cbd8c2;
 color: azure;
-display: block;
+display: grid;
     
 }
 footer a{
