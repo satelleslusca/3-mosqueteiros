@@ -34,18 +34,15 @@ color: #A3B09A;
 #nome-dos-nengues {
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    background-color: palegreen;
     margin: 20px;
     padding: 20px;
-    border-radius: 30px;
-    border: 3px solid;
     text-align: center;
 }
 
 .foto-equipe {
     width: 40%;
     border: 3px solid;
-    
+    color: #A3B09A;
 }
 
 footer{
