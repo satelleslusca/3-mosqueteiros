@@ -20,17 +20,13 @@ header{
 }
 .img-primeiro-topico{
     width: 15%;
-    border-radius: 30px;
+color: #A3B09A;
     border: 3px solid;
 }
 
 .primeiro-topico {
     display: block;
-    background-color: palegreen;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 30px;
-    border: 3px solid;
+   
 }
 
 #nome-dos-nengues {
