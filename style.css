@@ -67,6 +67,6 @@ font-size: larger;
 }
 
 .img-comentarios{
-    clip-path: circle(40% at 50% 50%);
-    width: 100px;
+    border: 10px solid black;
+    width: 7%;
 }
