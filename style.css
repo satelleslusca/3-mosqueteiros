@@ -91,4 +91,5 @@ font-size: larger;
     padding-bottom: 50px;
     padding-left: 15px;
     margin: 20px;
+    display: flex;
 }
