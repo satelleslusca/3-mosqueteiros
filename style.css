@@ -75,7 +75,7 @@ font-size: larger;
 
 .img-comentarios{
     margin: 25px;
-    width: 40%;
+    width: 45%;
 }
 .img-comentarios-2{
     align-items: center;
@@ -90,4 +90,5 @@ font-size: larger;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 15px;
+    margin: 20px;
 }
