@@ -69,3 +69,7 @@ font-size: larger;
 .img-comentarios{
     width: 7%;
 }
+.img-comentarios-2{
+    align-items: center;
+    display: flex;
+}
