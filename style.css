@@ -80,6 +80,8 @@ font-size: larger;
 .img-comentarios-2{
     align-items: center;
     display: flex;
+    margin: 25px;
+    width: 8%;
 }
 
 .img-comentarios-3{
