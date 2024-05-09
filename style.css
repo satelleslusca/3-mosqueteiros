@@ -110,4 +110,5 @@ li a {
 ol{
     border: 3px solid black;
     margin: 30px;
+    border-radius: 15px;
 }
