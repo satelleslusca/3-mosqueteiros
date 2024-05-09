@@ -102,3 +102,7 @@ font-size: larger;
 .fonte{
     font-size: 20px;
 }
+
+li a {
+    color: black;text-decoration: none;
+}
