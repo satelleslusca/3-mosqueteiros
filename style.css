@@ -35,7 +35,7 @@ color: #A3B09A;
 }
 
 .primeiro-topico {
-    display: block;
+    display: grid;
    margin: 15px;
    margin-left: 12%;
    font-size: 150%;
