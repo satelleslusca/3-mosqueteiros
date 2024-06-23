@@ -5,7 +5,7 @@
     --pretofonte: #000000;
 }
 body{
-    background-color: var(--verdefundo);
+    background-color: aliceblue;
     color: var(--pretofonte);
     margin: 0px;
     font-family: "Fira Sans", sans-serif;
